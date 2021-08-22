@@ -3,7 +3,7 @@ import './App.css';
 function App() {
   return (
     <div>
-      Upgrade Phone Directory
+      Phone Directory
     </div>
   );
 }
