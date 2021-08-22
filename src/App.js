@@ -3,7 +3,14 @@ import './App.css';
 function App() {
   return (
     <div>
-      Upgrade Phone Directory 
+    <div className="header">
+      Upgrade phone directory
+    </div>
+    <button>Add</button>
+    <div>
+       <span>Name</span><br/>
+       <span>Phone</span>
+    </div>
     </div>
   );
 }
